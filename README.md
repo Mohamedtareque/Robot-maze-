@@ -9,4 +9,7 @@
 
 **IEEE RAS ZSC**
 
+###resources here 
+* (Resourses Url)[http://www.instructables.com/id/Maze-Solving-Robot/?ALLSTEPS]
+
 
